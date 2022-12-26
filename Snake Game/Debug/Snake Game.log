@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hafiz\Desktop\Snake Game\Snake Game\Snake Game\Source.cpp(68,44): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\hafiz\Desktop\Snake Game\Snake Game\Snake Game\Source.cpp(222,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hafiz\Desktop\Snake Game\Snake Game\Snake Game\Source.cpp(237,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake Game.vcxproj -> C:\Users\hafiz\Desktop\Snake Game\Snake Game\Debug\Snake Game.exe
